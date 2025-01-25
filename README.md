@@ -1,0 +1,1 @@
+This repository demonstrates a common Java programming error: the IndexOutOfBoundsException.  The Bug.java file contains code that attempts to access an array element outside of its bounds.  The BugSolution.java file provides a corrected version of the code.
